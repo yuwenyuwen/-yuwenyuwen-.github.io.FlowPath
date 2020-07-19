@@ -63,6 +63,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .box_1 {
 }
 .flow_shape {
@@ -72,6 +74,13 @@
   font-weight:700;
   font-style:normal;
   font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
   text-align:left;
 }
 .line {
