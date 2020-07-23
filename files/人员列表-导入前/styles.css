@@ -234,7 +234,7 @@
 }
 #u4979 {
   position:absolute;
-  left:1021px;
+  left:1125px;
   top:0px;
   width:57px;
   height:54px;
@@ -252,6 +252,13 @@
   top:0px;
   width:59px;
   white-space:nowrap;
+}
+#u4979_ann {
+  position:absolute;
+  left:1175px;
+  top:-4px;
+  width:1px;
+  height:1px;
 }
 #u4981_div {
   position:absolute;
@@ -283,7 +290,7 @@
 }
 #u4981 {
   position:absolute;
-  left:1139px;
+  left:1013px;
   top:0px;
   width:57px;
   height:54px;
@@ -301,6 +308,13 @@
   top:0px;
   width:59px;
   white-space:nowrap;
+}
+#u4981_ann {
+  position:absolute;
+  left:1063px;
+  top:-4px;
+  width:1px;
+  height:1px;
 }
 #u4983_div {
   position:absolute;
